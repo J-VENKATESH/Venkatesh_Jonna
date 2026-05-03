@@ -22,6 +22,41 @@ Currently seeking opportunities in **software/embedded development** at global M
 
 ## 🛠 Experience
 
+### 🔹 Deputy Engineer – Testing & Product Support
+
+At Bharat Electronics Limited (BEL)
+
+- Contributing to the development and validation of mission-critical naval defense systems under NS1 / IAC (Integrated Anti-Submarine Warfare) MOD-C programs.
+- Focused on ensuring high reliability, system integrity, and operational readiness of complex embedded and electronic platforms.
+
+- Led system-level testing and validation of embedded systems, ensuring compliance with stringent defense and quality standards
+
+- Executed integration and functional testing across multi-module architectures, enabling seamless subsystem interoperability
+
+- Diagnosed and resolved hardware, firmware, and system-level issues, improving system robustness and reducing failure rates
+
+- Delivered field and production support, ensuring smooth deployment and rapid issue resolution in real-world environments
+
+- Collaborated with cross-functional teams including R&D, manufacturing, and QA to drive product quality and lifecycle efficiency
+
+- Developed comprehensive test documentation, validation reports, and standard operating procedures (SOPs)
+
+- Worked extensively with communication protocols: CAN, UART, SPI, I2C, and Ethernet
+
+- Utilized industry-standard tools such as oscilloscopes, logic analyzers, and multimeters for debugging and signal analysis
+
+### Impact:
+- Enhanced system reliability and validation efficiency in high-stakes defense applications, contributing to the successful delivery of robust and field-ready electronic systems.
+
+### Technical Expertise
+- Embedded Systems & Electronics Testing
+- System Integration & Validation
+- Hardware Debugging & Fault Analysis
+- Communication Protocols: CAN, UART, SPI, I2C, Ethernet
+- Test Documentation & Reporting
+- Defense & Naval Systems
+
+ 
 ### 🔹 Engineer, Battery Systems - Turno, Blubble Pvt Ltd
 - Developed embedded IoT frameworks for battery monitoring and failure detection.
 - Implemented CAN and MQTT-based remote systems, reducing downtime.
